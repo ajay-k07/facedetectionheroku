@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/facedetectionheroku/static/css/main.41c12541.chunk.css",
+    "main.js": "/facedetectionheroku/static/js/main.0ef0f74b.chunk.js",
+    "main.js.map": "/facedetectionheroku/static/js/main.0ef0f74b.chunk.js.map",
+    "runtime-main.js": "/facedetectionheroku/static/js/runtime-main.d68b6de1.js",
+    "runtime-main.js.map": "/facedetectionheroku/static/js/runtime-main.d68b6de1.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/facedetectionheroku/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.872c4e59.chunk.js": "/facedetectionheroku/static/js/2.872c4e59.chunk.js",
+    "static/js/2.872c4e59.chunk.js.map": "/facedetectionheroku/static/js/2.872c4e59.chunk.js.map",
+    "index.html": "/facedetectionheroku/index.html",
+    "precache-manifest.2141c4e9c45959461ca4d253428e4b69.js": "/facedetectionheroku/precache-manifest.2141c4e9c45959461ca4d253428e4b69.js",
+    "service-worker.js": "/facedetectionheroku/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/facedetectionheroku/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.41c12541.chunk.css.map": "/facedetectionheroku/static/css/main.41c12541.chunk.css.map",
+    "static/js/2.872c4e59.chunk.js.LICENSE.txt": "/facedetectionheroku/static/js/2.872c4e59.chunk.js.LICENSE.txt",
+    "static/media/brain.jpg": "/facedetectionheroku/static/media/brain.9a5c7c7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d68b6de1.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.872c4e59.chunk.js",
+    "static/css/main.41c12541.chunk.css",
+    "static/js/main.0ef0f74b.chunk.js"
+  ]
+}
